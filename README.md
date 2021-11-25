@@ -1,4 +1,4 @@
 ## Welcome to My Own GitHub Page
 
-Here You can see my "Hello, World!" code in Python:
+Here You can see my "Hello, World!" code in Python here:
 `print("Hello, World!")`
