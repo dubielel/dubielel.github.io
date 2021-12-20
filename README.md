@@ -10,4 +10,4 @@ Nasz projekt polegał na stworzeniu od zera w pełni funkcjonalnego silnika szac
 * [Łukasz Łabuz](luklabuz.github.io)
 * [Natalia Niedziałek](natiniedzialek.github.io)
 * [Mateusz Piękoś](matpiekos.github.io)
-* [Krzysztof Wójcik](hoshiharahikari.github.io)
+* [Krzysztof Wójcik](https://hoshiharahikari.github.io/)
