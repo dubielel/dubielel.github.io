@@ -6,8 +6,8 @@ Nasz projekt polegał na stworzeniu od zera w pełni funkcjonalnego silnika szac
 ![Image of a console](/Console1.png)
 
 #### Pozostali autorzy:
-* [Kacper Cienkosz](kacienk.github.io)
-* [Łukasz Łabuz](luklabuz.github.io)
-* [Natalia Niedziałek](natiniedzialek.github.io)
-* [Mateusz Piękoś](matpiekos.github.io)
+* [Kacper Cienkosz](https://kacienk.github.io/)
+* [Łukasz Łabuz](https://luklabuz.github.io/)
+* [Natalia Niedziałek](https://natiniedzialek.github.io/)
+* [Mateusz Piękoś](https://matpiekos.github.io/)
 * [Krzysztof Wójcik](https://hoshiharahikari.github.io/)
